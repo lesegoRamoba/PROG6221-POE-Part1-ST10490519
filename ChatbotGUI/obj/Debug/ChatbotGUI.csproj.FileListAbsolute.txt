@@ -1,0 +1,11 @@
+C:\Users\Student\Desktop\programming\POE-PART-1\ChatbotGUI\bin\Debug\greeting.wav
+C:\Users\Student\Desktop\programming\POE-PART-1\ChatbotGUI\bin\Debug\ChatbotGUI.exe.config
+C:\Users\Student\Desktop\programming\POE-PART-1\ChatbotGUI\bin\Debug\ChatbotGUI.exe
+C:\Users\Student\Desktop\programming\POE-PART-1\ChatbotGUI\bin\Debug\ChatbotGUI.pdb
+C:\Users\Student\Desktop\programming\POE-PART-1\ChatbotGUI\obj\Debug\ChatbotGUI.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\programming\POE-PART-1\ChatbotGUI\obj\Debug\ChatbotGUI.Form1.resources
+C:\Users\Student\Desktop\programming\POE-PART-1\ChatbotGUI\obj\Debug\ChatbotGUI.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\programming\POE-PART-1\ChatbotGUI\obj\Debug\ChatbotGUI.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\programming\POE-PART-1\ChatbotGUI\obj\Debug\ChatbotGUI.exe
+C:\Users\Student\Desktop\programming\POE-PART-1\ChatbotGUI\obj\Debug\ChatbotGUI.pdb
+C:\Users\Student\Desktop\programming\POE-PART-1\ChatbotGUI\obj\Debug\ChatbotGUI.exe.config
